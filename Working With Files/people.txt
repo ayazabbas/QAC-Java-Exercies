@@ -1,0 +1,5 @@
+Gandalf,Wizard,2019
+Frodo,Ring Bearer,33
+Sam,Bodyguard,50
+Aragorn,Ranger,87
+Legolas,Cool Elf,2931
