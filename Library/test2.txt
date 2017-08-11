@@ -1,0 +1,11 @@
+items,,4
+B0,,Harry Potter,,JK Rowling,,2003,,false,,false,,true,,30/08/2017
+J3,,Nature,,Springer,,10/08/2017,,548,,true,,30/08/2017
+M1,,CarMag,,Jeremy Clarkson,,10/08/2017,,true,,false
+users,,24
+U0,,Ayaz
+U1,,Rhys
+U2,,Wilbur
+U3,,Amrit,,B0,,J3
+U15,,Frodo
+U23,,Legolas
